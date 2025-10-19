@@ -16,8 +16,9 @@ When working with small models, Problems often need to be broken down into very 
 
 This is not a definitive guide as models continue to come out which bring capabilities to smaller sizes frequently.
 
-| Size | Capability |
-| --- | -------- |
+
+| Model Size | Capabilities Unlocked at This Tier |
+|------------|------------------------------------|
 | 1B | Basic text completion and pattern recognition. Models can generate simple sentences with reasonable grammar but lack coherence over longer passages. Limited to rote memorization of common phrases without understanding context or nuance. |
 | 4B | Improved coherence in short paragraphs. Basic question-answering on straightforward topics. Simple creative tasks like generating rhymes or basic stories. Still struggles with factual accuracy and complex syntax. |
 | 8B | Decent conversational abilities, including chit-chat and basic instruction following. Improved handling of common knowledge recall. Basic coding assistance for simple scripts. Emergent simple few-shot learning for pattern-based tasks. |
